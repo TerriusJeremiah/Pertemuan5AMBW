@@ -3,9 +3,3 @@ class Jabatan {
     return '';
   }
 }
-
-class Status {
-  String status() {
-    return '';
-  }
-}
